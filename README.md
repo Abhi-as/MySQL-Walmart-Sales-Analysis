@@ -22,13 +22,13 @@ c. Select columns with null values in them. There are no null values in our data
 This will help in generate some new columns from existing ones.
 
 
-a. Add a new column named "time_of_day" to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day most sales are made.
+  a. Add a new column named "time_of_day" to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day most sales are made.
 
 
-b. Add a new column named "day_name" that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer the question on which week of the day each branch is busiest.
+  b. Add a new column named "day_name" that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer the question on which week of the day each branch is busiest.
 
 
-c. Add a new column named "month_name" that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
+  c. Add a new column named "month_name" that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
 
 ### 3. Exploratory Data Analysis (EDA): 
 Exploratory data analysis is done to answer the listed questions and aims of this project.
@@ -74,7 +74,7 @@ Exploratory data analysis is done to answer the listed questions and aims of thi
 **PDF: Questions, Queries & Image Results - [PDF Documentation](Walmart_PDF_File.pdf)**
 
 
-For a more thorough understanding, please check these ![Table Description](Table.png), [MySQLScript.sql](Walmart_MySQL_File.sql) and [CSV Data](Walmart_Sales_Raw_Data) files, which contains valueable information and important details.
+For a more thorough understanding, please check these [Table Description](Table.png), [MySQL Queries](Walmart_MySQL_File.sql) and [CSV Data](Walmart_Sales_Raw_Data) files, which contains valueable information and important details.
 
   
   
