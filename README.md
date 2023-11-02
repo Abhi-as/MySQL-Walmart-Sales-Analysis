@@ -55,10 +55,7 @@ Exploratory data analysis is done to answer the listed questions and aims of thi
   10. Which day of the week has the best average ratings per branch?
 
 ## Files
-For a more thorough understanding, please check these [Table Description](Table.png), [MySQL Queries](Walmart_MySQL_File.sql) and [CSV Data](Walmart_Sales_Raw_Data) files, which contains valuable information and important details.
-
-
 **PDF: Questions, Queries & Image Results - [PDF Documentation](Walmart_PDF_File.pdf)**
 
 
-[View PDF](Walmart_PDF_File.pdf)
+For a more thorough understanding, please check these [Table Description](Table.png), [MySQL Queries](Walmart_MySQL_File.sql) and [CSV Data](Walmart_Sales_Raw_Data) files, which contains valuable information and important details.
