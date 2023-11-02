@@ -9,12 +9,8 @@ This is the first step where inspection of data is done to make sure NULL values
 
 
 > Build a database
-
-
-> Create table and insert the data.
-
-
-> Select columns with null values in them. There are no null values in our database as in creating the tables, we set NOT NULL for each field, hence null values are filtered out.
+Create table and insert the data.
+Select columns with null values in them. There are no null values in our database as in creating the tables, we set NOT NULL for each field, hence null values are filtered out.
 
 **2. Feature Engineering:**
 This will help in generate some new columns from existing ones.
